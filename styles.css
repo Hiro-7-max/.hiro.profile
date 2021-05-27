@@ -116,6 +116,7 @@ li {
 #works ul {
   display: flex;
   justify-content: space-between;
+  text-align: center;
 }
 
 #works li {
@@ -137,8 +138,8 @@ li {
   width: 15%;
 }
 #contact dd {
-  width: 85%;
-  margin-bottom: 10px;
+  width: 75%;
+  margin-bottom: 20px;
 }
 #contact dd input,
 #contact dd textarea {
