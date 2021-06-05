@@ -230,8 +230,9 @@ li {
   }
 
   #works ul {
-    margin-left: auto;
-    margin-right: auto;
+/*     margin-left: auto;
+    margin-right: auto; */
+    vertical-align: center;
   }
   
   #works li  {
